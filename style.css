@@ -7,6 +7,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 20px;
 }
 section h1{
     font-size: 50px;
