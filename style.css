@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+section{
+    min-height: 100vh;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+section h1{
+    font-size: 50px;
+}
+section p{
+    font-size: 20px;
+}
+nav{
+    height: 100vh;
+    font-size: 1.875rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(238, 215, 215);
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
+nav a{
+    color: rgba(1, 10, 0, 0.647);
+    margin: 20px;
+    text-decoration-style:wavy;
+    text-decoration-color: rgb(213, 136, 21);
+}
+#about{
+    text-align: center;
+margin-bottom: 10px;
+}
+#services{
+    text-align: center;
+    background-color: brown;
+
+}
+#services h1{
+    color: white;
+}
